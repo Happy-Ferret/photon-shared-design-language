@@ -12,7 +12,7 @@ Firefox should adapt itself for everyone: From new users to seasoned Mozillians.
 Firefox should feel welcoming and friendly.
 
 #### Aware  
-Firefox should be perceptive of you and your needs, while remaining respectful of your personal space.
+Firefox should be perceptive of you and your needs, while remaining respectful of your personal/private space.
 
 #### Quick  
 Firefox should feel fast! From task completion to icon animation.
