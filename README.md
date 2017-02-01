@@ -5,20 +5,20 @@
 
 **WIP**
 
-Adaptable
+Adaptable  
 Firefox should adapt itself for everyone: From new users to seasoned Mozillians. Customization and control of your web experience is key.
 
-Approachable
+Approachable  
 Firefox should feel welcoming and friendly.
 
-Aware
+Aware  
 Firefox should be perceptive of you and your needs, while remaining respectful of your personal space.
 
-Quick
+Quick  
 Firefox should feel fast! From task completion to icon animation.
 
-Supportive
+Supportive  
 Firefox should be helpful in both proactive and passive ways.
 
-Whimsical
+Whimsical  
 Firefox should be fun to use! Our browser should delight the user in both expected and unexpected ways.
