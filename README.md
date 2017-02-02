@@ -6,19 +6,19 @@
 **WIP**
 
 #### Adaptable  
-Firefox should adapt itself for everyone: From new users to seasoned Mozillians. Customization and control of your web experience is key.
+Firefox should adapt itself to anyone: From new users (simple controls, help/encouragement in using features) to seasoned Mozillians (customization/control of the entire browser experience).
 
 #### Approachable  
-Firefox should feel welcoming and friendly.
+Firefox is welcoming, open, and inclusive.
 
 #### Aware  
-Firefox should be perceptive of you and your needs, while remaining respectful of your personal/private space.
+Firefox is vigilant on behalf of users, providing tools to keep them safe while helping them browse better. Firefox is also perceptive, and looks for signals from users before deciding how to act.
 
 #### Quick  
-Firefox should feel fast! From task completion to icon animation.
+Firefox should look and feel fast! Frodm task completion to icon animation, Firefox is the most responsive and modern browser.
 
 #### Supportive  
-Firefox should be helpful in both proactive and passive ways.
+Firefox understands user needs and supports them with relevant experiences. The browser should be helpful in both proactive and passive ways.
 
 #### Whimsical  
-Firefox should be fun to use! Our browser should delight the user in both expected and unexpected ways.
+Firefox is fun to use! Our browser delights the user in both expected and unexpected ways.
