@@ -15,7 +15,7 @@ Firefox is welcoming, open, and inclusive.
 Firefox is vigilant on behalf of users, providing tools to keep them safe while helping them browse better. Firefox is also perceptive, and looks for signals from users before deciding how to act.
 
 #### Quick  
-Firefox should look and feel fast! Frodm task completion to icon animation, Firefox is the most responsive and modern browser.
+Firefox should look and feel fast! From task completion to icon animation, Firefox is the most responsive and modern browser.
 
 #### Supportive  
 Firefox understands user needs and supports them with relevant experiences. The browser should be helpful in both proactive and passive ways.
